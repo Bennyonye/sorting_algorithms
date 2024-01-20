@@ -1,5 +1,5 @@
 # C - Sorting algorithms &amp; Big O project
-##### C Algorithm Data structure
+##### C, Algorithm, Data structure
 
 
 ## Background Context Resources
