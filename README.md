@@ -44,6 +44,7 @@ At the end of this project, you are expected to be able to *explain to anyone*, 
 
 For this project you are given the following *print_array*, and *print_list* functions:
 
+----------------------------------------------------------------------------------------------------------------
 #include <stdlib.h>
 #include <stdio.h>
 
@@ -97,7 +98,7 @@ void print_list(const listint_t *list)
 * Please declare the prototype of the functions __print_array__ and __print_list__ in your __sort.h__ header file
 * Please use the following data structure for doubly linked list:
 
-Explain
+--------------------------------------------------------------------------------------------------------------------------------
 /**
  * struct listint_s - Doubly linked list node
  *
