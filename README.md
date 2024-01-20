@@ -137,4 +137,5 @@ Here is a quick tip to help you test your sorting algorithms with big sets of ra
 # GitHub Rule
 There should be one project repository per group. If you clone/fork/whatever a project repository with the same name before the second deadline, you risk a 0% score.
 
-C - Sorting algorithms &amp; Big O project by Benny &amp; Danny
+
+*C - Sorting algorithms &amp; Big O project by Benny &amp; Danny*
